@@ -1,10 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is 0A1C-6D9E
-
- Directory of D:\Raja\Learning\GIT Folder
-
-02/15/2023  10:08 PM    <DIR>          .
-02/15/2023  10:00 PM    <DIR>          ..
-02/15/2023  10:08 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  955,416,403,968 bytes free
+Change1
